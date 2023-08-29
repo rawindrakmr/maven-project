@@ -20,6 +20,7 @@
     </dependency>
 
     <!-- https://mvnrepository.com/artifact/org.springframework/spring-core this is only comment -->
+    <!-- just another comment-->
     <dependency>
         <groupId>org.springframework</groupId>
         <artifactId>spring-core</artifactId>
